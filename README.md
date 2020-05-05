@@ -9,7 +9,7 @@ I have collected several helpful resource materials (learning guides / cheat she
 # <p align="center"> ![SciKitLearn](images/ScikitLearnScreenShot.jpg) </p>
 
 ## I have also included color charts to help giving color to plots
-# <p align="center"> ![ColorCharts](images/Color01.jpg)![ColorCharts](images/Color01.jpg) </p>
+# <p align="center"> ![ColorCharts](images/Color03.jpg) </p>
 
 
 
