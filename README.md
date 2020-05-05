@@ -19,7 +19,7 @@ I have collected several helpful resource materials (learning guides / cheat she
 
 I have collected these resource guides from many sources including:
 
-    * Data Sources - [DataCamp](https://www.datacamp.com/) 
-    * [Mark the Graph](https://www.datacamp.com/)
-    * [Anaconda](https://www.anaconda.com)
-    * [GitHub](https://www.github.com)
+    * ![DataCamp](https://www.datacamp.com/) 
+    * ![Mark the Graph](https://www.datacamp.com/)
+    * ![Anaconda](https://www.anaconda.com)
+    * ![GitHub](https://www.github.com)
