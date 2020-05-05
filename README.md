@@ -11,15 +11,14 @@ I have collected several helpful resource materials (learning guides / cheat she
 ## I have also included color charts to help giving color to plots
 # <p align="center"> ![ColorCharts](images/Color03.jpg) </p>
 
-
-
 ## Author
 
 * **Michael Davis** - [Davis1776](https://github.com/Davis1776)
 
 ## Acknowledgments
 
-I have collected these resources guides from many sources including:
+I have collected these resource guides from many sources including:
+
     * Data Sources - [DataCamp](https://www.datacamp.com/) 
     * [Mark the Graph](https://www.datacamp.com/)
     * [Anaconda](https://www.anaconda.com)
