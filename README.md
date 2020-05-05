@@ -8,7 +8,7 @@ I have collected several helpful resource materials (learning guides / cheat she
 ## Several important libraries are also included, such as Scikit Learn
 # <p align="center"> ![SciKitLearn](images/ScikitLearnScreenShot.jpg) </p>
 
-## I have also included color charts to help giving color to plots
+## I have also included color charts to help give color to plots
 # <p align="center"> ![ColorCharts](images/Color03.jpg) </p>
 
 ## Author
@@ -23,3 +23,6 @@ I have collected these resource guides from many sources including:
 * [Mark the Graph](https://twitter.com/Mark_Graph)
 * [Anaconda](https://www.anaconda.com)
 * [GitHub](https://www.github.com)
+
+## Copyright
+Michael R. Davis © 2020. All Rights Reserved.
