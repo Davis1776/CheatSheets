@@ -1,5 +1,4 @@
-# CheatSheets
-Cheat sheets / learning materials
+# Resoure Materials
 
 I have collected several helpful resource materials (learning guides / cheat sheet) that provide good code snippets for many important or common tasks when using python, pandas, seaborn, color charts, and other libraries.
 
@@ -8,6 +7,10 @@ I have collected several helpful resource materials (learning guides / cheat she
 
 ## Several important libraries are also included, such as Scikit Learn
 # <p align="center"> ![SciKitLearn](images/ScikitLearnScreenShot.jpg) </p>
+
+## I have also included color charts to help giving color to plots
+# <p align="center"> ![ColorCharts](images/Color01.jpg)![ColorCharts](images/Color01.jpg) </p>
+
 
 
 ## Author
