@@ -13,7 +13,7 @@ I have collected several helpful resource materials (learning guides / cheat she
 
 ## Author
 
-* **Michael Davis** - [Davis1776](https://github.com/Davis1776)
+* **Michael R. Davis** - [Davis1776](https://github.com/Davis1776)
 
 ## Acknowledgments
 
