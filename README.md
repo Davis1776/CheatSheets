@@ -1,4 +1,4 @@
-# Resoure Materials
+# Resource Materials
 
 I have collected several helpful resource materials (learning guides / cheat sheet) that provide good code snippets for many important or common tasks when using python, pandas, seaborn, color charts, and other libraries.
 
