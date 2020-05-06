@@ -1,4 +1,4 @@
-# <p align="center"> Resource Materials </p>
+# <p align="center"> :books: Resource Materials :books: </p>
 
 I have collected several helpful resource materials (learning guides / cheat sheet) that provide good code snippets for many important or common tasks when using python, pandas, seaborn, color charts, and other libraries.
 
