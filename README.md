@@ -26,5 +26,6 @@ I have collected these resource guides from many sources including:
 * [GitHub](https://www.github.com "GitHub")
 
 ## Copyright
+
 Michael R. Davis :copyright: 2020. All Rights Reserved.
 ---
