@@ -28,4 +28,5 @@ I have collected these resource guides from many sources including:
 ## Copyright
 
 Michael R. Davis :copyright: 2020. All Rights Reserved.
+
 ---
