@@ -1,4 +1,4 @@
-# Resource Materials
+# <p align="center"> Resource Materials </p>
 
 I have collected several helpful resource materials (learning guides / cheat sheet) that provide good code snippets for many important or common tasks when using python, pandas, seaborn, color charts, and other libraries.
 
@@ -11,18 +11,20 @@ I have collected several helpful resource materials (learning guides / cheat she
 ## I have also included color charts to help give color to plots
 # <p align="center"> ![ColorCharts](images/Color03.jpg) </p>
 
+---
 ## Author
 
-* **Michael R. Davis** - [Davis1776](https://github.com/Davis1776)
+* **Michael R. Davis** - [Davis1776](https://github.com/Davis1776 "Michael Davis' GitHub")
 
 ## Acknowledgments
 
 I have collected these resource guides from many sources including:
 
-* [DataCamp](https://www.datacamp.com/)
-* [Mark the Graph](https://twitter.com/Mark_Graph)
-* [Anaconda](https://www.anaconda.com)
-* [GitHub](https://www.github.com)
+* [DataCamp](https://www.datacamp.com/ "DataCamp")
+* [Mark the Graph](https://twitter.com/Mark_Graph "Mark_Graph's Twitter page")
+* [Anaconda](https://www.anaconda.com "Anaconda")
+* [GitHub](https://www.github.com "GitHub")
 
 ## Copyright
-Michael R. Davis © 2020. All Rights Reserved.
+Michael R. Davis :copyright: 2020. All Rights Reserved.
+---
