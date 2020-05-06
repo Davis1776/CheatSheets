@@ -12,11 +12,11 @@ I have collected several helpful resource materials (learning guides / cheat she
 # <p align="center"> ![ColorCharts](images/Color03.jpg) </p>
 
 ---
-## Author
+### Author
 
 * **Michael R. Davis** - [Davis1776](https://github.com/Davis1776 "Michael Davis' GitHub")
 
-## Acknowledgments
+### Acknowledgments
 
 I have collected these resource guides from many sources including:
 
@@ -25,7 +25,7 @@ I have collected these resource guides from many sources including:
 * [Anaconda](https://www.anaconda.com "Anaconda")
 * [GitHub](https://www.github.com "GitHub")
 
-## Copyright
+### Copyright
 
 Michael R. Davis :copyright: 2020. All Rights Reserved.
 
